@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 361 255">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #12160f;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>Преимущества карточка</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <path id="Преимущества_карточка" data-name="Преимущества карточка" class="cls-1" d="M13,12,348,0a13,13,0,0,1,13,13V242a13,13,0,0,1-13,13H13A13,13,0,0,1,0,242V25A13,13,0,0,1,13,12Z"/>
+    </g>
+  </g>
+</svg>

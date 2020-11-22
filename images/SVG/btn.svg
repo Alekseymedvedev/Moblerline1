@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 235 81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #62cc14;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>btn</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <path id="btn" class="cls-1" d="M17,4,221,0a9,9,0,0,1,9,9l5,58a9,9,0,0,1-9,9L9,81a9,9,0,0,1-9-9L4,17A13,13,0,0,1,17,4Z"/>
+    </g>
+  </g>
+</svg>

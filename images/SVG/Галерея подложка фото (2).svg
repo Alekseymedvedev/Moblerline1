@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 361 381">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d2d2d;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>Галерея подложка фото (2)</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <path id="Галерея_подложка_фото" data-name="Галерея подложка фото" class="cls-1" d="M13,10,348,0a13,13,0,0,1,13,13V358a13,13,0,0,1-13,13L13,381A13,13,0,0,1,0,368V23A13,13,0,0,1,13,10Z"/>
+    </g>
+  </g>
+</svg>
